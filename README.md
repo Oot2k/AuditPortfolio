@@ -10,6 +10,10 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
+| Nouns DAO | 01.12.2024  | Sherlock  | Lead Judge  | - | - |
+| Covalent | 24.10.2024  | Sherlock  | First  | - | PUSH0 |
+| Predict.fun | 24.10.2024  | Sherlock  | First  | - | PUSH0 |
+| Magic Sea | 24.07.2024  | Sherlock  | Lead  | - | PUSH0 |
 | Terrace | 01.06.2024  | Sherlock  | First  | - | PUSH0 |
 | Arcadia Update | 25.04.2024  | Sherlock  | 2.  | [Link](https://audits.sherlock.xyz/contests/321/report) | PUSH0 |
 | Perpetual | 18.03.2024  | Sherlock  | 3.  | [Link](https://audits.sherlock.xyz/contests/219/report) | PUSH0 |
