@@ -1,7 +1,7 @@
 # AuditPortfolio
 
 ### Currently senior security researcher at Sherlock Defi with team PUSH0.
-
+And Security researcher at BailSec
 In addition, oot2k served as the primary judge for five distinct contests on Sherlock. 
 
 Teams worked in:  
@@ -10,6 +10,9 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
+| Aave v3.3 | 01.01.2025  | Sherlock  | Lead Judge  | - | - |
+| Parallel Protocol Audit 2 | 01.01.2025  | Bail Sec  | Researcher  | - | - |
+| Parallel Protocol Audit | 11.12.2024  | Bail Sec  | Peer Auditor  | - | - |
 | Nouns DAO | 01.12.2024  | Sherlock  | Lead Judge  | - | - |
 | Covalent | 24.10.2024  | Sherlock  | First  | - | PUSH0 |
 | Predict.fun | 24.10.2024  | Sherlock  | First  | - | PUSH0 |
