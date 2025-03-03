@@ -10,6 +10,7 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
+| MetaLend | 01.02.2025  | Sherlock  | Researcher  | - | - |
 | Aave v3.3 | 01.01.2025  | Sherlock  | Lead Judge  | - | - |
 | Parallel Protocol Audit 2 | 01.01.2025  | Bail Sec  | Researcher  | - | - |
 | Parallel Protocol Audit | 11.12.2024  | Bail Sec  | Peer Auditor  | - | - |
