@@ -10,6 +10,8 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
+| 40acres | 25.03.2025  | Sherlock  | Researcher  | - | - |
+| Dodo Swap Velo Fork | 20.03.2025  | Sherlock  | Researcher  | - | - |
 | MetaLend | 01.02.2025  | Sherlock  | Researcher  | - | - |
 | Aave v3.3 | 01.01.2025  | Sherlock  | Lead Judge  | - | - |
 | Parallel Protocol Audit 2 | 01.01.2025  | Bail Sec  | Researcher  | - | - |
