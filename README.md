@@ -1,6 +1,6 @@
 # AuditPortfolio
 
-### Currently senior security researcher at Sherlock Defi with team PUSH0.
+### Currently senior security researcher at Sherlock Defi.
 And Security researcher at BailSec
 In addition, oot2k served as the primary judge for five distinct contests on Sherlock. 
 
@@ -10,6 +10,8 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
+| Based opinion markets | 19.05.2025  | Sherlock  | Researcher  | - | - |
+| Lazy Bear | 05.05.2025  | Sherlock  | Researcher  | - | - |
 | 40acres Update | 22.04.2025  | Sherlock  | Researcher  | - | - |
 | 1Inch | 17.04.2025  | Sherlock  | Researcher  | - | - |
 | 40acres | 25.03.2025  | Sherlock  | Researcher  | - | - |
