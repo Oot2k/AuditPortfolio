@@ -10,7 +10,7 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
-| Based opinion markets | 19.05.2025  | Sherlock  | Researcher  | - | - |
+| Based opinion markets | 19.05.2025  | Solo  | Researcher  | - | - |
 | Lazy Bear | 05.05.2025  | Sherlock  | Researcher  | - | - |
 | 40acres Update | 22.04.2025  | Sherlock  | Researcher  | - | - |
 | 1Inch | 17.04.2025  | Sherlock  | Researcher  | - | - |
