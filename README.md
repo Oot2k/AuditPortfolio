@@ -10,6 +10,9 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
+| Tree Protocol | 18.07.2025  | Solo  | Researcher  | - | - |
+| 40acres Update | 05.07.2025  | Sherlock  | Researcher  | - | - |
+| Symbiotic Middleware SDK | 22.07.2025  | Sherlock  | Judge  | - | - |
 | Symbiotic Middleware SDK | 28.05.2025  | Bail Sec  | Researcher  | - | - |
 | MetaLend Rebalancer | 25.05.2025  | Sherlock  | Researcher  | - | - |
 | Based opinion markets | 19.05.2025  | Solo  | Researcher  | - | - |
