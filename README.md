@@ -10,6 +10,8 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 
 | Contest / Report  | Date  | Platform  | Rank / Severity  | Report  | Team |
 |---|---|---|---|---|---|
+| Hydrex Finance | 04.08.2025  | Sherlock  | Researcher  | - | - |
+| MetaLend Rebalancer | 05.08.2025  | Sherlock  | Researcher  | - | - |
 | Tree Protocol | 18.07.2025  | Solo  | Researcher  | - | - |
 | 40acres Update | 05.07.2025  | Sherlock  | Researcher  | - | - |
 | Symbiotic Middleware SDK | 22.07.2025  | Sherlock  | Judge  | - | - |
@@ -19,6 +21,7 @@ Silent Defenders of DeFi: [Shogoki](https://x.com/theshogoki), oot2k
 | Lazy Bear | 05.05.2025  | Sherlock  | Researcher  | - | - |
 | 40acres Update | 22.04.2025  | Sherlock  | Researcher  | - | - |
 | 1Inch | 17.04.2025  | Sherlock  | Researcher  | - | - |
+| Tree Protocol NFT | 15.02.2025  | Solo  | Researcher  | - | - |
 | 40acres | 25.03.2025  | Sherlock  | Researcher  | - | - |
 | Dodo Swap Velo Fork | 20.03.2025  | Sherlock  | Researcher  | - | - |
 | MetaLend | 01.02.2025  | Sherlock  | Researcher  | - | - |
