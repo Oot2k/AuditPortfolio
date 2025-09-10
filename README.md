@@ -16,6 +16,8 @@ Their work primarily focuses on decentralized finance (DeFi), with a selection o
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Based Exchanger | 05.09.2025  | Solo  | Researcher  | - | - |
+| Somnia | 15.08.2025  | Sherlock  | Researcher  | - | - |
 | Hydrex Finance | 04.08.2025  | Sherlock  | Researcher  | - | - |
 | MetaLend Rebalancer | 05.08.2025  | Sherlock  | Researcher  | - | - |
 | Tree Protocol | 18.07.2025  | Solo  | Researcher  | - | - |
