@@ -3,7 +3,7 @@
 ### About
 
 Oot2k has collaborated with leading security platforms such as Sherlock, Immunefi, and Bailsec to help secure high-profile projects including **Aave**, **1inch**, **Symbiotic**, and **Nouns DAO**.
-They have completed a total of **33** security audits and submitted three rewarded reports through bug bounty platforms. Several of these audits were conducted in collaboration with renowned auditors including [thekmj](https://x.com/thekmj_) and [Shogoki](https://x.com/theshogoki).
+They have completed a total of **36** security audits and submitted three rewarded reports through bug bounty platforms. Several of these audits were conducted in collaboration with renowned auditors including [thekmj](https://x.com/thekmj_) and [Shogoki](https://x.com/theshogoki).
 Their work primarily focuses on decentralized finance (DeFi), with a selection of their most interesting findings highlighted below under Interesting Discoveries.
 
 ## Live vulnerabilities 
@@ -16,6 +16,8 @@ Their work primarily focuses on decentralized finance (DeFi), with a selection o
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| MetaLend V3 | 01.10.2025  | Solo  | Researcher  | - | - |
+| Bet on It | 20.09.2025  | Sherlock  | Researcher  | - | - |
 | Based Exchanger | 05.09.2025  | Solo  | Researcher  | - | - |
 | Somnia | 15.08.2025  | Sherlock  | Researcher  | - | - |
 | Hydrex Finance | 04.08.2025  | Sherlock  | Researcher  | - | - |
