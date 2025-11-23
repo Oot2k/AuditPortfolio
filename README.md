@@ -16,6 +16,9 @@ Their work primarily focuses on decentralized finance (DeFi), with a selection o
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Avon | 19.11.2025  | Sherlock  | Researcher  | - | - |
+| Predict.Fun | 20.10.2025  | Sherlock  | Researcher  | - | - |
+| Index.Fun | 15.10.2025  | Sherlock  | First / Lead  | - | PUSH0 |
 | 3Jane | 12.10.2025  | Sherlock  | Second  | - | PUSH0 |
 | MetaLend V3 | 01.10.2025  | Sherlock | Researcher  | - | - |
 | Bet on It | 20.09.2025  | Sherlock  | Researcher  | - | - |
