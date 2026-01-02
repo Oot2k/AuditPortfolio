@@ -9,6 +9,7 @@ Their work primarily focuses on decentralized finance (DeFi), with a selection o
 ## Live vulnerabilities 
 | Company  | Date  | Platform  | Severity  | Report  |
 |---|---|---|---|---|
+| 40acres | 25.03.2025  | Live code  | Cricitak (300k at risk)  | - |
 | EUROe Stable coin | 15.01.2024  | Live code  | Low  | - |
 | Undisclosed | 20.12.2023  | Live code  | Critical (13M at risk)  | - |
 | Ankr | 10.12.2023  | Immunefi | Low  | - |
@@ -16,6 +17,8 @@ Their work primarily focuses on decentralized finance (DeFi), with a selection o
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Nest | 25.12.2025  | Bailsec  | Researcher  | - | - |
+| Blend | 23.12.2025  | Sherlock  | Researcher  | - | - |
 | Avon | 19.11.2025  | Sherlock  | Researcher  | - | - |
 | Predict.Fun | 20.10.2025  | Sherlock  | Researcher  | - | - |
 | Index.Fun | 15.10.2025  | Sherlock  | First / Lead  | - | PUSH0 |
