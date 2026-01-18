@@ -6,10 +6,15 @@ Oot2k has collaborated with leading security platforms such as Sherlock, Immunef
 They have completed a total of **36** security audits and submitted three rewarded reports through bug bounty platforms. Several of these audits were conducted in collaboration with renowned auditors including [thekmj](https://x.com/thekmj_) and [Shogoki](https://x.com/theshogoki).
 Their work primarily focuses on decentralized finance (DeFi), with a selection of their most interesting findings highlighted below under Interesting Discoveries.
 
+## References 
+
+"_I have had the pleasure of working with oot2k on multiple audits and I am pleased with oot2k's ability as well as can-do attitude. He is proactive and is willing to go the extra mile to ensure there are no hidden spots._"  
+Hiroshi - Predict.fun 
+
 ## Live vulnerabilities 
 | Company  | Date  | Platform  | Severity  | Report  |
 |---|---|---|---|---|
-| 40acres | 25.03.2025  | Live code  | Cricitak (300k at risk)  | - |
+| 40acres | 25.03.2025  | Live code  | Critical (300k at risk)  | - |
 | EUROe Stable coin | 15.01.2024  | Live code  | Low  | - |
 | Undisclosed | 20.12.2023  | Live code  | Critical (13M at risk)  | - |
 | Ankr | 10.12.2023  | Immunefi | Low  | - |
@@ -17,6 +22,7 @@ Their work primarily focuses on decentralized finance (DeFi), with a selection o
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Arcadia Asset Manager | 05.01.2026  | Sherlock  | Researcher  | - | - |
 | Nest | 25.12.2025  | Bailsec  | Researcher  | - | - |
 | Blend | 23.12.2025  | Sherlock  | Researcher  | - | - |
 | Avon | 19.11.2025  | Sherlock  | Researcher  | - | - |
