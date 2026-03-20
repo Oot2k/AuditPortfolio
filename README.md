@@ -22,6 +22,9 @@ Hiroshi - Predict.fun
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Aegis | 15.03.2026  | Sherlock  | Researcher  | - | - |
+| Blend | 05.03.2026  | Sherlock  | Researcher  | - | - |
+| Probable (acquired by Predict.Fun) | 05.02.2026  | Bailsec  | Researcher  | - | - |
 | Arcadia Asset Manager | 05.01.2026  | Sherlock  | Researcher  | - | - |
 | Nest | 25.12.2025  | Bailsec  | Researcher  | - | - |
 | Blend | 23.12.2025  | Sherlock  | Researcher  | - | - |
