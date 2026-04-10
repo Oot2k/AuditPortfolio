@@ -14,22 +14,23 @@ Hiroshi - Predict.fun
 ## Live vulnerabilities 
 | Company  | Date  | Platform  | Severity  | Report  |
 |---|---|---|---|---|
-| 40acres | 25.03.2025  | Live code  | Critical (300k at risk)  | - |
-| EUROe Stable coin | 15.01.2024  | Live code  | Low  | - |
+| 40acres | 25.03.2025  | Live code  | Critical (300k at risk)  | [Link](https://docs.40acres.finance/technical-docs/smart-contracts) |
+| EUROe Stable coin | 15.01.2024  | Live code  | Low  | [Link](https://github.com/Oot2k/AuditPortfolio/blob/main/PermitDOS.pdf) |
 | Undisclosed | 20.12.2023  | Live code  | Critical (13M at risk)  | - |
 | Ankr | 10.12.2023  | Immunefi | Low  | - |
 
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Omen Perpetual | 22.03.2026  | Sherlock  | Researcher  | - | - |
 | Aegis | 15.03.2026  | Sherlock  | Researcher  | - | - |
 | Blend | 05.03.2026  | Sherlock  | Researcher  | - | - |
 | Probable (acquired by Predict.Fun) | 05.02.2026  | Bailsec  | Researcher  | - | - |
-| Arcadia Asset Manager | 05.01.2026  | Sherlock  | Researcher  | - | - |
+| Arcadia Asset Manager | 05.01.2026  | Sherlock  | Researcher  | [Link](https://github.com/arcadia-finance/arcadia-finance-audits/blob/main/audits-v2/2026-01%20Sherlock.pdf) | PUSH0 | 
 | Nest | 25.12.2025  | Bailsec  | Researcher  | - | - |
 | Blend | 23.12.2025  | Sherlock  | Researcher  | - | - |
 | Avon | 19.11.2025  | Sherlock  | Researcher  | - | - |
-| Predict.Fun | 20.10.2025  | Sherlock  | Researcher  | - | - |
+| Predict.Fun | 20.10.2025  | Sherlock  | Researcher  | [Link](https://1627684912-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FuBy5cIxCH65sso6lWCM8%2Fuploads%2FCoqlfwzTGHqUhtq54JZL%2F2025.11.26%20-%20Final%20-%20Predict.fun%20Collaborative%20Audit%20Report%201764175259.pdf?alt=media&token=00187076-1e32-4a16-896e-9f2df69a87db) | - |
 | Index.Fun | 15.10.2025  | Sherlock  | First / Lead  | - | PUSH0 |
 | 3Jane | 12.10.2025  | Sherlock  | Second  | - | PUSH0 |
 | MetaLend V3 | 01.10.2025  | Sherlock | Researcher  | - | - |
@@ -44,10 +45,10 @@ Hiroshi - Predict.fun
 | MetaLend Rebalancer | 25.05.2025  | Sherlock  | Researcher  | - | - |
 | Based opinion markets | 19.05.2025  | Solo  | Researcher  | - | - |
 | Lazy Bear | 05.05.2025  | Sherlock  | Researcher  | - | - |
-| 40acres Update | 22.04.2025  | Sherlock  | Researcher  | - | - |
-| 1Inch | 17.04.2025  | Sherlock  | Researcher  | - | - |
+| 40acres Update | 22.04.2025  | Sherlock  | Researcher  | [Link](https://docs.40acres.finance/technical-docs/smart-contracts) | - |
+| 1Inch | 17.04.2025  | Sherlock  | Researcher  | [Link](https://github.com/1inch/1inch-audits/blob/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Sherlock.pdf) | - |
 | Tree Protocol NFT | 15.02.2025  | Solo  | Researcher  | - | - |
-| 40acres | 25.03.2025  | Sherlock  | Researcher  | - | - |
+| 40acres | 25.03.2025  | Sherlock  | Researcher  | [Link](https://docs.40acres.finance/technical-docs/smart-contracts) | - |
 | Dodo Swap Velo Fork | 20.03.2025  | Sherlock  | Researcher  | - | - |
 | MetaLend | 01.02.2025  | Sherlock  | Researcher  | - | - |
 | Parallel Protocol Audit 2 | 01.01.2025  | Bail Sec  | Researcher  | - | - |
