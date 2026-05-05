@@ -22,6 +22,8 @@ Hiroshi - Predict.fun
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Blend | 05.05.2026  | Sherlock  | Researcher  | - | - |
+| Plether | 15.04.2026  | SC Audit Studio  | Researcher  | - | - |
 | Omen Perpetual | 22.03.2026  | Sherlock  | Researcher  | - | - |
 | Aegis | 15.03.2026  | Sherlock  | Researcher  | - | - |
 | Blend | 05.03.2026  | Sherlock  | Researcher  | - | - |
