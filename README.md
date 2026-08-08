@@ -22,6 +22,8 @@ Hiroshi - Predict.fun
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| Sky (prev. MakerDAO) | 25.07.2026  | Sherlock  | Lead Judge  | - | - |
+| Polygon | 05.06.2026  | Sherlock  | Undisclosed  | - | SC Audit Studio |
 | Blend | 05.05.2026  | Sherlock  | Researcher  | - | - |
 | Plether | 15.04.2026  | SC Audit Studio  | Researcher  | - | - |
 | Omen Perpetual | 22.03.2026  | Sherlock  | Researcher  | - | - |
