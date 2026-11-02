@@ -22,6 +22,13 @@ Hiroshi - Predict.fun
 ## Security Audits and Bug Bounty Contests
 | Contest / Company  | Date  | Platform  | Rank  | Report  | Team |
 |---|---|---|---|---|---|
+| SandCastle MorphoDune | 02.11.2026  | Cyfrin  | Researcher  | - | - |
+| WLFI | 19.10.2026  | Cyfrin  | Researcher  | - | - |
+| Metalend | 18.10.2026  | Sherlock  | Researcher  | - | - |
+| Arcadia | 16.10.2026  | Sherlock  | Researcher  | - | - |
+| OneTok | 12.10.2026  | SC Audit Studio  | Researcher  | - | - |
+| Vesper | 05.10.2026  | Sherlock  | Researcher  | - | - |
+| Blend | 28.09.2026  | Sherlock  | Researcher  | - | - |
 | Sky (prev. MakerDAO) | 25.07.2026  | Sherlock  | Lead Judge  | - | - |
 | Polygon | 05.06.2026  | Sherlock  | Undisclosed  | - | SC Audit Studio |
 | Blend | 05.05.2026  | Sherlock  | Researcher  | - | - |
